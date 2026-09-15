@@ -1,0 +1,15 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+*.class
+.env
+.env.*
+application-local.properties
+result.txt
+README_RUS.md
+README_ENG.md
+materials/
+misc/
+code-samples/
